@@ -1,0 +1,3 @@
+#How to Launch RViz on MyCobot Ubuntu
+ros2 launch mycobot_280pi mycobot_follow.launch.py
+
